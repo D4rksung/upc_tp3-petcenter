@@ -1,6 +1,5 @@
 # UPC TP3 - PETCENTER
-Repositorio Central para Módulos de Proyecto Petcenter
-Los módulos incluidos en el proyecto se encuentran alojados en los siguientes repositorios:
+Repositorio Central para Módulos de Proyecto Petcenter. Los módulos incluidos en el proyecto se encuentran alojados en los siguientes repositorios:
 
 ## CÓDIGO FUENTE
 - Gestión de Hospedaje: https://github.com/D4rksung/upc_tp3-gha.git
