@@ -1,3 +1,3 @@
- [submodule "codigo/upc_tp3-gha"]
-  	path = codigo/upc_tp3-gha
-  	url = https://github.com/D4rksung/upc_tp3-gha.git
+[submodule "gestion-hospedaje"]
+	path = codigo/upc_tp3-gha
+	url = https://github.com/D4rksung/upc_tp3-gha.git
