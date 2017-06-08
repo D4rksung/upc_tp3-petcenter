@@ -1,3 +1,15 @@
 [submodule "gestion-hospedaje"]
 	path = codigo/upc_tp3-gha
 	url = https://github.com/D4rksung/upc_tp3-gha.git
+[submodule "gestion-vacunas-desparacitacion"]
+	path = codigo/upc_tp3-gvd
+	url = https://github.com/D4rksung/upc_tp3-gvd.git
+[submodule "gestion-peluqueria"]
+	path = codigo/upc_tp3-gpe
+	url = https://github.com/D4rksung/upc_tp3-gpe.git
+[submodule "gestion-admision"]
+	path = codigo/upc_tp3-adm
+	url = https://github.com/D4rksung/upc_tp3-adm.git
+[submodule "base-datos"]
+	path = scripts/upc_tp3-bd
+	url = https://github.com/D4rksung/upc_tp3-bd.git
